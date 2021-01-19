@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ReactJS, zilliqa-js
+- 🌱 I’m currently learning ReactJS, AWS Lambda
 - 👯 I’m looking to collaborate on something that focuses on digital literacy to underpreviliged people
 - 💬 Ask me about NodeJS, MongoDB, MeteorJS, VueJS, Web Development
 - 📫 How to reach me: LinkedIn! [@aayesha-shrestha](https://www.linkedin.com/in/aayesha-shrestha/)
